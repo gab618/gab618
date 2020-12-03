@@ -11,4 +11,4 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/gab618) <br>
 🐦 [Twitter](https://twitter.com/ezrealblindado) <br>
-🔴 [Twitch](https://twitch.tc/ezrealblindado)
+🔴 [Twitch](https://twitch.tv/ezrealblindado)
