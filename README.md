@@ -5,7 +5,7 @@
 
 ### What I'm working on 👨‍💻
 
-🏆 Currently building and maintaining a free League of Legends sweepstake game - [Bolão CBLOL](https://bolaocblol.xyz/) <br>
+🏆 Currently building and maintaining a free League of Legends sweepstake game - [Bolão CBLOL](https://www.bolaocblol.com.br/) <br>
 🙀 Also coding a CuriousCat clone just for fun - [CuriousBlindas](https://github.com/gab618/curious-blindas-frontend) <br>
 
 ### Find me elsewhere 🌎
